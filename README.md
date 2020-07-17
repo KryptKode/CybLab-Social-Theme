@@ -1,2 +1,2 @@
-# Bootstrap-Starter
-A template for bootstrap projects with html, css and javascript
+# CybLab Social
+A socail media landing page theme with bootstrap 
